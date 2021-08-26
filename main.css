@@ -13,5 +13,9 @@ justify-content: center;
 height: 100vh;
 font-family: 'Azeret Mono', sans-serif;
 margin: 0;
-
 }
+
+.movie-container{
+    margin: 20px 0;
+}
+
